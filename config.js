@@ -1,7 +1,7 @@
 global.DeveloperMode = 'false' //true Or false
-global.linkGC = ['https://chat.whatsapp.com/H3ON3Cc5tKfAzFGaP1M2y9', 'https://chat.whatsapp.com/C2BuY1h1QVJ2Tsm109Vk71']
-global.channelYT = ['https://youtube.com/channel/UC4xu6SZWhuPdpCeeZNeEFvQ'] 
-global.owner = ['62895334402456']// Put your number here
+global.linkGC = ['https://www.tiktok.com/@joceylintangg', '-']
+global.channelYT = ['https://www.instagram.com/joceylintangg'] 
+global.owner = ['6281322577123']// Put your number here
 global.mods = [] // Want some help?
 global.partner = [] // Want some help?
 global.prems = [] // Premium user has unlimited limit
@@ -34,8 +34,8 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.packname = 'Superbot'
-global.author = 'PasyaGanz'
+global.packname = 'Lintang Bot'
+global.author = 'Lintang Bot'
 global.fla = 'https://flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=amped-logo&doScale=true&scaleWidth=800&scaleHeight=500&text='
 
 global.multiplier = 69 // The higher, The harder levelup
